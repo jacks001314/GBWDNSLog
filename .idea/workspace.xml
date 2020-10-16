@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16ff1e90-8cc3-4361-9c13-6d66749e51b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jAZm5clQ6ItinEaQaL5kCjy18h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.GBWDNSLogApplication">
+    <configuration name="BridgeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GBWDNSLog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bridge.BridgeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GBWDNSLogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="GBWDNSLog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gbw.dnslog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gbw.dnslog.GBWDNSLogApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--domain localhost --webDomain localhost --ip 127.0.0.1 --signal aaa" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BridgeApplication" />
+      <item itemvalue="Spring Boot.GBWDNSLogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GBWDNSLogApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16ff1e90-8cc3-4361-9c13-6d66749e51b9" name="Default Changelist" comment="" />
+      <created>1603249012548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603249012548</updated>
+      <workItem from="1603249015614" duration="2264000" />
+      <workItem from="1603257569932" duration="104000" />
+      <workItem from="1603274083629" duration="959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603277051418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603277051418" />
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="378" key="GridCell.Tab.0.center" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="378" key="GridCell.Tab.0.left" timestamp="1603277079972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079972" />
+    <state width="1877" height="378" key="GridCell.Tab.0.right" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="378" key="GridCell.Tab.1.center" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="378" key="GridCell.Tab.1.left" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="378" key="GridCell.Tab.1.right" timestamp="1603277079973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603277079973" />
+    <state width="1877" height="498" key="GridCell.Tab.2.bottom" timestamp="1603276868461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603276868461" />
+    <state width="1877" height="498" key="GridCell.Tab.2.center" timestamp="1603276868461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603276868461" />
+    <state width="1877" height="498" key="GridCell.Tab.2.left" timestamp="1603276868461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603276868461" />
+    <state width="1877" height="498" key="GridCell.Tab.2.right" timestamp="1603276868461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603276868461" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1603275632941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603275632941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gbw/dnslog/GBWDNSLogApplication.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
